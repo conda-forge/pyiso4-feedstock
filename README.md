@@ -196,4 +196,5 @@ Feedstock Maintainers
 =====================
 
 * [@tovrstra](https://github.com/tovrstra/)
+* [@pierre-24](https://github.com/pierre-24/)
 
